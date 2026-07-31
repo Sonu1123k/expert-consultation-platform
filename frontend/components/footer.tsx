@@ -8,9 +8,7 @@ export function Footer() {
         <div className="grid gap-8 md:grid-cols-4">
           <div className="space-y-3">
             <div className="flex items-center gap-2">
-              <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
-                <Stethoscope className="h-5 w-5 text-primary-foreground" />
-              </div>
+              
               <span className="text-lg font-semibold text-foreground">ExpertConnect</span>
             </div>
             <p className="text-sm leading-relaxed text-muted-foreground">
